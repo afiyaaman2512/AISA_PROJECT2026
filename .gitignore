@@ -1,0 +1,25 @@
+# Python
+__pycache__/
+*.py[cod]
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Virtual environment
+venv/
+.env/
+
+# Datasets
+data/raw/
+data/processed/
+
+# Trained models
+models/*.h5
+models/*.keras
+models/*.pth
+
+# Generated results
+results/
+
+# macOS
+.DS_Store
